@@ -14,3 +14,10 @@ Kỹ năng:
 - Lập trình C# và Java
 - HTMS/CSS/JavaScript
 - Git và quản lý phiên bản
+
+Kế hoạch học tập:
+- Hoàn thành các môn học còn lại đúng tiến độ.
+- Nâng cao kỹ năng lập trình C# và ASP.NET Core.
+- Tham gia dự án nhóm để cải thiện kỹ năng teamwork.
+- Học thêm về cơ sở dữ liệu và DevOps.
+- Thường xuyên đọc tài liệu và thực hành trên GitHub.
