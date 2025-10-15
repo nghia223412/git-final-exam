@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+- Tôi là Trần Minh Nghĩa, sinh viên ngành CNTT.
+- Hiện đang học năm cuối tại Trường Đại học Nam Cần Thơ.
+- Yêu thích lập trình và công nghệ mới.
+- Thích học hỏi và trải nghiệm môi trường mới.
+- Mong muốn phát triển sự nghiệp trong lĩnh vực phần mêm.
+
+Sở thích:
+- Đọc sách
+- Du lịch
+- Con mèo
+
+Kỹ năng:
+- Lập trình C# và Java
+- HTMS/CSS/JavaScript
+- Git và quản lý phiên bản
