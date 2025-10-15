@@ -13,6 +13,11 @@ Ngày kết thúc: 21/10/2025
 8. Ôn tập kiến thức đã học
 9. Tham gia thảo luận nhóm
 10. Lập kế hoạch tuần tiếp theo
+<<<<<<< Updated upstream
 - Thực hành lập trình C# nâng cao
 - Làm mini project
 - Ôn tập
+=======
+- Tham gia thảo luận
+- Lập kế hoạch mới
+>>>>>>> Stashed changes
