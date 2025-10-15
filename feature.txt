@@ -1,0 +1,6 @@
+Tính năng mới:
+- Thêm chức năng đăng nhập bằng Google
+- Hiển thị thông báo khi có tin nhắn mới
+- Cho phép xuất dữ liệu ra file CSV
+- Tích hợp API thời tiết
+- Cải thiện giao diện người dùng
