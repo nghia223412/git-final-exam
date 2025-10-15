@@ -1,4 +1,6 @@
 Hello, this is Nguyễn Văn A
+Xin chào, tôi là Nguyễn Văn A
+Conflict resolved on 15/10/2025
 - Tôi là Trần Minh Nghĩa, sinh viên ngành CNTT.
 - Hiện đang học năm cuối tại Trường Đại học Nam Cần Thơ.
 - Yêu thích lập trình và công nghệ mới.
