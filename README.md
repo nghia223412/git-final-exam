@@ -6,3 +6,4 @@
 
 ## Mục tiêu
 Học cách quản lý phiên bản vối Git, hiểu quy trình commit, lush, pukk và làm việc nhóm trên GitHub.
+Cập nhật: Hoàn thiện giao diện trang chủ - Nghĩa04
